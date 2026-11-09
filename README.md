@@ -1,16 +1,30 @@
-## Hi there 👋
+## I'm suszx 👋
 
-<!--
-**suszx/suszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Singapore.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top" width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 I like small tools that do one thing well
+- 🛠️ Tinkering with side projects on weekends
+- 💬 Ask me about JavaScript
+
+<img src="https://img.shields.io/badge/Python-ff7b72?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-ff7b72?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-ff7b72?style=for-the-badge&logoColor=white" alt="Go" />
+
+</td>
+<td valign="top" width="45%">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suszx&hide_border=true&theme=radical" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=suszx&hide_border=true&theme=github" alt="Contribution graph" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<a href="https://github.com/suszx"><img src="https://img.shields.io/badge/GitHub-@suszx-ff7b72?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/github/followers/suszx?label=Followers&style=social" alt="Followers" />
+
+<sub>Still learning, still shipping.</sub>
